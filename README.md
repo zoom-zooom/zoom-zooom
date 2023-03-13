@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/khari_nar" target="blank"><img src="https://img.shields.io/twitter/follow/khari_nar?logo=twitter&style=for-the-badge" alt="khari_nar" /></a> </p>
 
-- 👀I'm into **cute stuff**
+- 👀I'm into **aesthetic stuff**
 
 - 🌱 I’m currently learning **C++, C**
 
