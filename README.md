@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zoom-zooom/zoom-zooom/blob/output/github-contribution-grid-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/zoom-zooom/zoom-zooom/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/zoom-zooom/zoom-zooom/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/StarlitDreams/StarlitDreams/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 <h1 align="center">Hi 💖, I'm  &lt;3 </h1>
 <h3 align="center">A caffeine-addicted, sleep deprived developer~! </h3>
