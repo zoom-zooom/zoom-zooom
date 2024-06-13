@@ -1,28 +1,10 @@
 
 <h3> Snakey Snakey~! <h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zoom-zooom/zoom-zooom/blob/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zoom-zooom/zoom-zooom/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/StarlitDreams/StarlitDreams/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+
 <h1 align="center">Hi 💖, I'm  &lt;3 </h1>
-<h3 align="center">A caffeine-addicted, sleep deprived developer~! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=StarlitDreams&label=Profile%20views&color=0e75b6&style=flat" alt="StarlitDreams" /> </p>
-
 <p align="left"> <a href="https://twitter.com/StarlitDreamsss" target="blank"><img src="https://img.shields.io/twitter/follow/StarlitDreamsss?logo=twitter&style=for-the-badge" alt="StarlitDreams" /></a> </p>
-
-- 👀I'm into **aesthetic stuff**
-
-- 🌱 I’m currently learning **C++, C**
-
-- 🗨️My discord **starlitdreams**
-
-- 💬 Ask me about **Python**
-
-- ⚡ Fun fact **"I cannot code without programmer socks"**
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
